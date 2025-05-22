@@ -1,16 +1,23 @@
-## Hi there 👋
+# Дмитрий Антипов | Java Backend Developer
 
-<!--
-**gghost1/gghost1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱 [Telegram](https://t.me/stacss) | 📧 [Email](mailto:gd.host@yandex.ru) | 🏙️ Иннополис
 
-Here are some ideas to get you started:
+**Технологии:**  
+`Java` `Spring` `SQL/NoSQL` `JDBC/JPA` `Docker/Kubernetes` `Kafka/RabbitMQ` `GraphQL/REST API` `Microservices`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Опыт
+**ХайРус** (2024-н.в.)  
+`Spring Boot` `PostgreSQL` `GraphQL`  
+- Разработка ядра приложения  
+- Оптимизация SQL-запросов  
+- CI/CD интеграция
+
+**Стартап/Образовательный проект** (2023-2025)  
+`RabbitMQ` `Spring Boot` `PostgreSQL` `Redis` `Microservices`
+- Система управления ресурсами  
+- Парсер вакансий с AI  
+- Образовательная платформа
+
+## Образование
+**Университет Иннополис** (2023-2027)  
+Информатика и вычислительная техника
